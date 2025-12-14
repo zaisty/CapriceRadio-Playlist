@@ -8,8 +8,3 @@ Download:
 ```
 https://raw.githubusercontent.com/zaisty/CapriceRadio-Playlist/master/RadCap_487st.xspf
 ```
-
-Alternative Download:
-```
-https://zaisty.ovh/RadCap_487st.xspf
-```
